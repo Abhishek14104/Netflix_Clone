@@ -152,6 +152,7 @@ img {
 	padding: 3rem 0;
 	background: #000;
 	color: #fff;
+	overflow: auto;
 }
 
 /* Hide initial content */
